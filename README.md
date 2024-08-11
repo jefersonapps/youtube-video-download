@@ -8,6 +8,10 @@ Este é o frontend de um aplicativo de download de vídeos construído com React
 - **Baixar Arquivos:** Baixe os arquivos de vídeo para o seu dispositivo.
 - **Limpar Downloads:** Apague os arquivos baixados e limpe a lista de downloads.
 
+## Demonstração
+
+https://github.com/user-attachments/assets/ac4f97dc-5224-4ac1-aee2-6e450f287dff
+
 ## Instalação e Execução
 
 1. **Clone o repositório:**
